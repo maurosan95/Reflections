@@ -1,0 +1,3 @@
+Q: What happens when you initialize a new repository? Why do you need to do it?
+A: A new repository called .git is created. I guess this is the repository where my Git project will be stored.
+
