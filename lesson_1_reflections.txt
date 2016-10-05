@@ -1,0 +1,21 @@
+Q: How did viewing a diff between two versions of a file help you see the bug that was introduced?
+A: If I can see what have changed, I can find out where the error is.
+
+Q: How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+A: It makes easier to compare different versions to find error if present and to see how I improved as a programmer.
+
+Q: What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+A: Pros: You can be sure the commits are the right size; if you are not          satifyied ith the commit, you can modify it until you are and them          submit it.
+   Cons: If something happens to your pc and you did not save, you will lose all          your data; you risk to commit many useless times.
+
+Q: Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separetely?
+A: Git helps you keep track of the whole situation, so taht if you change something that affects different files, you can change them at once; Google Docs, lets you operate on the files like they are indipendent, but you have to check in later commits if you have to correct other files as well.
+
+Q: How can you use the commands git log and git diff to view the history of the file?
+A: First, I use git log to view all the commits for that file, and, when I find the commit I am looking for, I use git diff followed by the id of the old commit and the id of the new commit to see what has changed between these two.
+
+Q: How might using version control make you more confident to make changes that could break something?
+A: Because even if I break something, I am always able to undo the changes and fix that like it never happend.
+
+Q: Now that you have your workspace set up, what do you want to try using Git for?
+A: I want to use it to speed up my programming by being able to do many things from it.
