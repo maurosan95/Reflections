@@ -6,3 +6,6 @@ A: It is a temporary repository that takes files from the working directory to a
 
 Q: How can you use the staging area to make sure you have one commit per logical change?
 A: I can compare the files in it before adding them and remove one or more of them if necessary.
+
+Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+A: If I want to, for example, experiment a new feature leaving the master untouched, I can do it using branches, developing the new branch of the project keeping the master the same.
