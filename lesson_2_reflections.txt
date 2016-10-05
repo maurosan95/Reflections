@@ -9,3 +9,6 @@ A: I can compare the files in it before adding them and remove one or more of th
 
 Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 A: If I want to, for example, experiment a new feature leaving the master untouched, I can do it using branches, developing the new branch of the project keeping the master the same.
+
+Q: How do the diagrams help you visualize the branch structure?
+A: By drawing it, I can clearly see what commit is related to another and I can see if there are commits that are unrelated.
