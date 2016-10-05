@@ -1,3 +1,8 @@
 Q: What happens when you initialize a new repository? Why do you need to do it?
 A: A new repository called .git is created. I guess this is the repository where my Git project will be stored.
 
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+A: It is a temporary repository that takes files from the working directory to add them to the repository. It makes me add all the files I want to to the repository giving me the chance to modify them before commit them all at once.
+
+Q: How can you use the staging area to make sure you have one commit per logical change?
+A: I can compare the files in it before adding them and remove one or more of them if necessary.
