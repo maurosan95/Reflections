@@ -15,3 +15,7 @@ A: By drawing it, I can clearly see what commit is related to another and I can 
 
 Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 A: The result of merging is a branch with all common and uncommon lines that had not been removed, and we represent the diagram that way to show how we developed them separately.
+
+Q: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+A: Pros: It can be long depending on the number on lines; it is easier to cause an error merging manually;
+   Cons: I can be absolutely sure which lines I am keeping and which ones I am removing.
