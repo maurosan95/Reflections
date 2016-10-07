@@ -3,3 +3,6 @@ A: I'd want to do it when I use moer than one computer to work on the project. I
 
 Q: Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 A: To avoid useless commits to be pushed, since sometimes it takes some commits to implement something new or if I'm not satysfied with the new feature and don't want to add it to the project, I can just delete it without pushing it on the remote.
+
+Q: Describe the differences between forks, clones, and branches. When would you use one instead of another?
+A: I use forks when I want to clone a repository on GitHub and store it on a new repository on my GitHub; clones when I want either to save from GitHub or my computer to my computer; branches when I want to create a modifyied version of the project leaving the current one untouched.
