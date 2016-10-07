@@ -1,2 +1,5 @@
 Q: When would you want to use a remote repository rather than keeping all your work local?
 A: I'd want to do it when I use moer than one computer to work on the project. In this way, I can access the project every time and from everywhere.
+
+Q: Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+A: To avoid useless commits to be pushed, since sometimes it takes some commits to implement something new or if I'm not satysfied with the new feature and don't want to add it to the project, I can just delete it without pushing it on the remote.
