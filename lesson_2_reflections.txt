@@ -12,3 +12,6 @@ A: If I want to, for example, experiment a new feature leaving the master untouc
 
 Q: How do the diagrams help you visualize the branch structure?
 A: By drawing it, I can clearly see what commit is related to another and I can see if there are commits that are unrelated.
+
+Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A: The result of merging is a branch with all common and uncommon lines that had not been removed, and we represent the diagram that way to show how we developed them separately.
