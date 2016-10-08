@@ -9,3 +9,6 @@ A: I use forks when I want to clone a repository on GitHub and store it on a new
 
 Q: What is the benefit of having a copy of the last known state of the remote stored locally?
 A: I can work on the most updated version of the project to avoid most conflicts, and, if there is one, I can resolve it in my own computer and then push it.
+
+Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A: I'd do it by meeting with people to work together, but since it would be easier to comunicate, it would be really hard to meet in person if we are from different parts of the world, and it would be harder to work on different features at the same time and implement them in the only version that exist, since we could not create new branches with Git.
