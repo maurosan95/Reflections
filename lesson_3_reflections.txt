@@ -12,3 +12,6 @@ A: I can work on the most updated version of the project to avoid most conflicts
 
 Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 A: I'd do it by meeting with people to work together, but since it would be easier to comunicate, it would be really hard to meet in person if we are from different parts of the world, and it would be harder to work on different features at the same time and implement them in the only version that exist, since we could not create new branches with Git.
+
+Q: When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+A: I'd do it when I want to try some changes being still able to undo them. If I'd do it, it would be faster, since I wouldn't have to update the master or merge it with the modified branch, but it is more safely to do changes in a different branch.
